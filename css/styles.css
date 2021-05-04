@@ -1,0 +1,23 @@
+body{
+    background-color: #75cfb8;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #dddddd;
+    border-width: 5px;
+    width: 3%
+
+}
+
+h1{
+    color: #1b2021
+}
+
+
+/******************************************************CLASS SELECTOR**************************************************/
+
+.zoom:hover {
+    transform: scale(1.2)
+
+}
